@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1686808816 source:c:\users\kwng2\desktop\model_manipulation\model_manipulation.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1682988351 c:\users\kwng2\desktop\model_manipulation\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1682988347 source:c:\users\kwng2\desktop\model_manipulation\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1686104624 source:c:\users\kwng2\desktop\model_manipulation\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1686104630 c:\users\kwng2\desktop\model_manipulation\readbmp.h
+
+1686104627 c:\users\kwng2\desktop\model_manipulation\imagemanipulation.h
+
+1686104621 source:c:\users\kwng2\desktop\model_manipulation\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1687009299 source:c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1687009299 c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\readbmp.h
+
+1687009299 c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\imagemanipulation.h
+
+1687358324 source:c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\model_manipulation.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<GL/glut.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	"vertex.h"
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1687068787 c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\vertex.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<vector>
+
+1687009299 source:c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1687068999 source:c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\vertex.cpp
+	"vertex.h"
+	<stdio.h>
+	<string.h>
+	<GL/glu.h>
+	<iostream>
+	<math.h>
+
+1687072143 c:\my world\mmu\study\trimester 5\comgraphics\project\model_manipulation\model_manipulation\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
