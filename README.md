@@ -26,7 +26,6 @@ Dr. Ng Kok Why
 5. [Models and Animations](#models-and-animations)
 6. [User Interaction](#user-interaction)
 7. [PLY Cleaner Utility](#ply-cleaner-utility)
-8. [License](#license)
 
 ## Introduction
 
@@ -116,9 +115,6 @@ The `clean.cpp` utility processes PLY files to remove inconsistencies and errors
     ```
 3. Use the cleaned PLY file (`output.ply`) in the main application.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
